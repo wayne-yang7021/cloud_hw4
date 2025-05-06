@@ -1,4 +1,6 @@
-FROM python:3.11-slim
+# 模擬錯誤的 Dockerfile
+FROM pythonn:3.11-bad   
+
 
 # 設定工作目錄
 WORKDIR /app
