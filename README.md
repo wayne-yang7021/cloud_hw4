@@ -11,7 +11,7 @@
 docker build -t cloud_hw4 .
 ```
 
-這個指令會產生一個名為 `2025cloud-app` 的本地映像檔。
+這個指令會產生一個名為 `cloud_hw4` 的本地映像檔。
 ## 如何運行 Container（`docker run`）
 
 ```bash
